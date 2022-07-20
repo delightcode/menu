@@ -1,0 +1,41 @@
+body{
+    background-color:rgb(94, 10, 10);
+}
+.center{
+    text-align: center;
+}
+.main{
+    background-color: chocolate;
+    margin-left:500px;
+    margin-right: 1px;
+    margin-top: 50px;
+}
+.top{
+    padding-top: 50px;
+}
+.spare{
+    color: cornsilk;
+}
+.pad{
+    padding-left: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+}
+
+a{
+    display: block;
+    color: black;
+}
+hr{
+    background-color: rgb(78, 179, 123);
+    height: 2px;
+    border-color: rgb(82, 168, 89);
+}
+button{
+    background-color: rgb(94, 10, 10);
+}
+.second{
+    margin-right: 700px;
+    margin-left:0px ;
+    background-color: blue;
+}
